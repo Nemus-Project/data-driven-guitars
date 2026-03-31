@@ -1,6 +1,6 @@
 ## Repository Contents
 
-This is a companion repository for the DAFx 2026 paper "Data-Driven Nonlinear Modal Synthesis of 65 Classical Guitars".
+This is a companion repository for the DAFx 2026 paper "Measurement-Informed Nonlinear Modal Synthesis of 65 Classical Guitars".
 ### Guitar Samples
 
 It contains guitar audio samples stored in 9 folders named `GuitarSamples_N`, where `N` is the guitar number. Each folder contains recordings of the 6 open strings excited with a plucking force of 0.25 N, except for `GuitarSamples_049`, which includes 5 subfolders corresponding to different excitation force levels:
