@@ -1,10 +1,9 @@
 ## Repository Contents
 
-This repository contains guitar audio samples used as reference data for the DAFx 2026 paper *"Data-Driven Nonlinear Modal Synthesis of 65 Classical Guitars"*.
-
+This is a companion repository for the DAFx 2026 paper "Data-Driven Nonlinear Modal Synthesis of 65 Classical Guitars".
 ### Guitar Samples
 
-The repository includes 9 folders named `GuitarSamples_N`, where `N` is the guitar number. Each folder contains recordings of the 6 open strings excited with a plucking force of 0.25 N, except for `GuitarSamples_049`, which includes 5 subfolders corresponding to different excitation force levels:
+It contains guitar audio samples stored in 9 folders named `GuitarSamples_N`, where `N` is the guitar number. Each folder contains recordings of the 6 open strings excited with a plucking force of 0.25 N, except for `GuitarSamples_049`, which includes 5 subfolders corresponding to different excitation force levels:
 
 | Subfolder | Excitation force |
 |-----------|-----------------|
@@ -28,9 +27,7 @@ The 9 guitars included are:
 | `GuitarSamples_061`  | Joseph Martinez    | 1804    | Delray           |
 | `GuitarSamples_062`  | Joseph Pages       | 1818    | D'Addario        |
 
-### Musical Excerpts
-
-The folder `Musical_Excerpts` contains synthesized musical excerpts generated with the data-driven model presented in the paper.
+The folder `Musical_Excerpts` contains synthesized musical excerpts.
 
 ### Further Information
 
