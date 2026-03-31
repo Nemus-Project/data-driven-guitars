@@ -15,17 +15,17 @@ It contains guitar audio samples stored in 9 folders named `GuitarSamples_N`, wh
 
 The 9 guitars included are:
 
-| Folder               | Maker              | Year    | Strings          |
-|----------------------|--------------------|---------|------------------|
-| `GuitarSamples_002`  | Benito Campo       | 1840    | Nylon            |
-| `GuitarSamples_003`  | Bordones y Cuerdas | 1952    | Nylon            |
-| `GuitarSamples_021`  | Lester DeVoe       | 2018    | Savarez Tomatito |
-| `GuitarSamples_025`  | HNOS Sandiz Lopez  | 2018    | Luthier          |
-| `GuitarSamples_033`  | Antonio Lorca      | Unknown | Nylon            |
-| `GuitarSamples_049`  | Enrique Garcia     | 1913    | Nylon            |
-| `GuitarSamples_055`  | Manuel Munoa       | 1803    | Gut              |
-| `GuitarSamples_061`  | Joseph Martinez    | 1804    | Delray           |
-| `GuitarSamples_062`  | Joseph Pages       | 1818    | D'Addario        |
+| Folder               | Maker              | Year    |
+|----------------------|--------------------|---------|
+| `GuitarSamples_002`  | Benito Campo       | 1840    |
+| `GuitarSamples_003`  | Bordones y Cuerdas | 1952    |
+| `GuitarSamples_021`  | Lester DeVoe       | 2018    |
+| `GuitarSamples_025`  | HNOS Sandiz Lopez  | 2018    |
+| `GuitarSamples_033`  | Antonio Lorca      | Unknown |
+| `GuitarSamples_049`  | Enrique Garcia     | 1913    |
+| `GuitarSamples_055`  | Manuel Munoa       | 1803    |
+| `GuitarSamples_061`  | Joseph Martinez    | 1804    |
+| `GuitarSamples_062`  | Joseph Pages       | 1818    |
 
 The folder `Musical_Excerpts` contains synthesized musical excerpts.
 
